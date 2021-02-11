@@ -8,7 +8,7 @@ const persons = {
 }
 
 function App() {
-  const [users, setUsers] = React.useState([
+  const [users, setUsers] = useState([
     {id: '', name: ''},
   ])
   React.useEffect(()=>{
