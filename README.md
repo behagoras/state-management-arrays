@@ -1,6 +1,6 @@
 # Descripción del proyecto
 
-Se desarrolló en vivo en el video https://youtu.be/xlSwMzw4sig
+Acompáñame a aprender a utilizar el estado de React y los principales métodos de los arreglos en el video  https://youtu.be/xlSwMzw4sig.
 
 ## Scripts disponibles
 
